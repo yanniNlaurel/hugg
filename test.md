@@ -1,3 +1,5 @@
+<pre>
+
 flowchart TD
     A03[ A03 計劃提交及預算審批 ] --> A01[ A01-1 抽籤及確認流程 ]
     A01 --> A02[ A02 活動收費判斷 ]
@@ -21,3 +23,5 @@ flowchart TD
     style A06 fill:#f1d0f9,stroke:#6a1b9a,stroke-width:1px
     style A07 fill:#f9d0d0,stroke:#b71c1c,stroke-width:1px
     style A08 fill:#ffffff,stroke:#444,stroke-width:1px
+
+</pre>
